@@ -13,7 +13,7 @@ public class Main2 {
         for (int b = 0; b < nums1.length; b++) {
             if (nums1[b] < 0) nums2++;
 
-
         }
+
     }
 }
