@@ -7,4 +7,5 @@ public class Car {
         System.out.println("Hello, ny name is "+model + ". My color is "+ color +". My dist = "+dist+ ". My age ="+ year);
         }
 
+
 }
